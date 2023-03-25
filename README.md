@@ -45,7 +45,7 @@ However, this function only works if your PC does not log off automaticly and no
 
 
 <p align="center"> 
- <a href="https://github.com/testertv/guillery-dl.github.io/raw/main/Releases/GUIllery-DL%20v.2022.12.17.exe" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-YSRec-brightgreen.svg" width="250"></a>  
+ <a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-coming soon!-brightgreen.svg" width="250"></a>  
  </p><p align="center">
 
  
