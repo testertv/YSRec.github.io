@@ -66,5 +66,10 @@ The program is portable, but you need to put the following files (yt-dlp.exe, ff
   <h2 align="center"><b>Important inforamtion</b></h2>
 The path where the program is located must not contain non-English letters or spaces.
 
+<h2 align="center"><b>💳 Please support my projects! 🤗 Thx.!!!</b></h2>
+<p align="center"> 
+<a href="" alt=""><img src="https://img.shields.io/badge/Ethereum-wallet-yello.svg"></a> 0x23A82beB500b8781c55E6F17b7e327d85F7f4108
+</p><p align="center">
+
 <h2 align="center"><b>License</h2>
 GUIllery-DL is Free Software: You can use, study, share, and improve it at will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
