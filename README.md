@@ -68,7 +68,7 @@ The path where the program is located must not contain non-English letters or sp
 
 <h2 align="center"><b>💳 Please support my projects! 🤗 Thx.!!!</b></h2>
 <p align="center"> 
-<a href="" alt=""><img src="https://img.shields.io/badge/Ethereum-wallet-yello.svg"></a> 0x23A82beB500b8781c55E6F17b7e327d85F7f4108
+ <a href="" alt=""><img src="https://img.shields.io/badge/Ethereum-Wallet%20➡️-blue"></a>  0x23A82beB500b8781c55E6F17b7e327d85F7f4108 <a href="" alt=""><img src="https://img.shields.io/badge/-⬅️%20Wallet-blue"></a> 
 </p><p align="center">
 
 <h2 align="center"><b>License</h2>
