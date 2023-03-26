@@ -16,7 +16,7 @@ YSRec is a portable program for an easiest way to download YouTube streams. Just
 
 <h2 align="center"><b>Screenshot and how it works</b></h2>
 
-<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/YSRec.github.io/main/Screenshots/screenshot.jpg"></a></p>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/YSRec.github.io/3d281bb235d7ebd96775cfe74b798c1045c485c0/Screenshots/screenshot.jpg"></a></p>
 
 
 
@@ -45,7 +45,7 @@ However, this function only works if your PC does not log off automaticly and no
 
 
 <p align="center"> 
- <a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-coming soon!-brightgreen.svg" width="250"></a>  
+ <a href="https://github.com/testertv/YSRec.github.io/raw/main/Releases/YSRec_2023.03.26.exe" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-YSRec-brightgreen.svg" width="250"></a>  
  </p><p align="center">
 
  
