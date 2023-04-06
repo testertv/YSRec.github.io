@@ -32,7 +32,7 @@ YSRec is a portable program for an easiest way to download YouTube streams. Just
 ---------------------------------------------------
 - (6) This is a beta function of an automatic download at a selected time. All  you have to do is enter the start and end time in format [hh:mm] ( do not click any buttons!!!). 
 
-To reset the time field, simply double-click on the "Start" or "Enter" label.
+To reset the time field, simply double-click on the "Start" or "End" label.
 
 However, this function only works if your PC does not log off automaticly and no screen saver is turned on! To be able to use this function without restrictions, it is necessary to know the Windows API, which I unfortunately do not do at the moment.
 
