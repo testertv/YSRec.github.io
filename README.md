@@ -45,7 +45,7 @@ However, this function only works if your PC does not log off automaticly and no
 
 
 <p align="center"> 
- <a href="https://github.com/testertv/YSRec.github.io/raw/main/Releases/YSRec_2023.03.26.exe" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-YSRec-brightgreen.svg" width="250"></a>  
+ <a href="https://github.com/testertv/YSRec.github.io/raw/main/Releases/YSRec_2023.05.09.exe" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-YSRec-brightgreen.svg" width="250"></a>  
  </p><p align="center">
 
  
